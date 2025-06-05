@@ -1,0 +1,15 @@
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\bin\Debug\net8.0\ejercicioCadena.exe
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\bin\Debug\net8.0\ejercicioCadena.deps.json
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\bin\Debug\net8.0\ejercicioCadena.runtimeconfig.json
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\bin\Debug\net8.0\ejercicioCadena.dll
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\bin\Debug\net8.0\ejercicioCadena.pdb
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.AssemblyInfo.cs
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.sourcelink.json
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.dll
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\refint\ejercicioCadena.dll
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.pdb
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ejercicioCadena.genruntimeconfig.cache
+C:\Users\javie\Desktop\tp6GonzaloJamardo\tl1-tp6-2025-GonzaloJM46\ejercicioCadena\obj\Debug\net8.0\ref\ejercicioCadena.dll
